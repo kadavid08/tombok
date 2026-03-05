@@ -48,3 +48,4 @@ if (alap < 1 || alap > 32) {
 } else {
     console.log("atalakitva:", szam.toString(alap))
 }
+
